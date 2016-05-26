@@ -26,3 +26,10 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
+#Ruby on rails Tutorial: "hello,world!"
+
+This is the first application for the
+[*Ruby on rails Tutorial*](http://www.railstutorial.org/)
+by[Michael Hartl](http://www.michaelhartl.com/).
